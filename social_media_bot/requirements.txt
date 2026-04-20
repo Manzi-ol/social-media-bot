@@ -1,0 +1,7 @@
+flask>=3.0.0           # Webhook HTTP server
+requests>=2.31.0       # HTTP client for API calls
+python-dotenv>=1.0.0   # .env file loading
+schedule>=1.2.0        # Lightweight task scheduler
+APScheduler>=3.10.4    # Advanced scheduling (cron-style)
+pytz>=2024.1           # Timezone handling for scheduling
+sqlalchemy>=2.0.0      # APScheduler persistent job store

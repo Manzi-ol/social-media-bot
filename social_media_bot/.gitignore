@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+logs/
+analytics/
+scheduler_jobs.sqlite
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
